@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julialdeoliveira
-- 👀 I’m interested in python, javascript, c#
-- 🌱 I’m currently learning py
-- 📫 How to reach me -> julia_l_de-oliveira@estudante.sc.senai.br or 5547988345313, my instagram is @mynombreesxulia and you can reach me in my dm too
+- 👀 I’m interested in java
+- 🌱 I’m currently learning java
+- 📫 How to reach me -> julia_l_de-oliveira@estudante.sc.senai.br
 
 
 <!---
