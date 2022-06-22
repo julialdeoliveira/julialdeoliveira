@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @julialdeoliveira
-- 🌱 I’m currently learning java
-- 📫 How to reach me -> julia_l_de-oliveira@estudante.sc.senai.br
+@julia_l_de_oliveira
+- 🌱 Estou aprendendo C#
+- 📫 Meu email -> julia_l_de-oliveira@estudante.sc.senai.br
 
 
 <!---
